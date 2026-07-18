@@ -154,6 +154,7 @@ markers:
   - {type: line-break, offset: 411, content: '', id: KR3j0128_WYG_003-2b02}
   - {type: indent, offset: 411, content: 　, id: KR3j0128_krp_003-bkkind26}
   - {type: punctuation, offset: 417, content: (, id: KR3j0128_krp_003-bkkpn1}
+  - {type: voice, offset: 417, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 419, content: /, id: KR3j0128_krp_003-bkkpn2}
   - {type: punctuation, offset: 420, content: ), id: KR3j0128_krp_003-bkkpn3}
   - {type: substitution, offset: 427, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
@@ -513,6 +514,7 @@ markers:
   - {type: line-break, offset: 1567, content: '', id: KR3j0128_WYG_003-6a07}
   - {type: indent, offset: 1567, content: 　, id: KR3j0128_krp_003-bkkind77}
   - {type: punctuation, offset: 1580, content: (, id: KR3j0128_krp_003-bkkpn4}
+  - {type: voice, offset: 1580, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 1583, content: /, id: KR3j0128_krp_003-bkkpn5}
   - {type: punctuation, offset: 1585, content: ), id: KR3j0128_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 1585, content: '
@@ -659,6 +661,7 @@ markers:
   - {type: line-break, offset: 2046, content: '', id: KR3j0128_WYG_003-7b07}
   - {type: indent, offset: 2046, content: 　, id: KR3j0128_krp_003-bkkind100}
   - {type: punctuation, offset: 2060, content: (, id: KR3j0128_krp_003-bkkpn7}
+  - {type: voice, offset: 2060, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 2063, content: /, id: KR3j0128_krp_003-bkkpn8}
   - {type: punctuation, offset: 2065, content: ), id: KR3j0128_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 2065, content: '
@@ -3543,4 +3546,4 @@ markers:
 
       ', id: KR3j0128_krp_003-bkkkrnewl683}
   back: []
-hash: sha256:8fab8f90d84dc4768d1a9f59239e5660877078e609b094862990d5ffaa54ba0b
+hash: sha256:5750c56dffffb1362c1662436e50ac7ac2e5b4d0c901010a14e368519dc87524
